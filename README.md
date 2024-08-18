@@ -51,6 +51,6 @@ Expected output - Robot Steering in rqt
 - You can now use the sliders to set forward and angular velocity and control your robot
 - Check Gazebo to see if your robot responds to your commands
 
-[Expected output - Robot control using Robot Steering](./media/robot-steering.gif)
+![Expected output - Robot control using Robot Steering](./media/robot-steering.gif)
 
 Expected output - Robot control using Robot Steering
